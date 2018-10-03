@@ -1,8 +1,8 @@
-[![Backers on Open Collective](https://opencollective.com/react-pwa/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/react-pwa/sponsors/badge.svg)](#sponsors) [![Dependencies Status](https://david-dm.org/Atyantik/react-pwa.svg)](https://david-dm.org/Atyantik/react-pwa)
-[![devDependencies Status](https://david-dm.org/Atyantik/react-pwa/dev-status.svg)](https://david-dm.org/Atyantik/react-pwa?type=dev)
-[![Build Status](https://travis-ci.org/Atyantik/react-pwa.svg?branch=master)](https://travis-ci.org/Atyantik/react-pwa)
-[![Known Vulnerabilities](https://snyk.io/test/github/atyantik/react-pwa/badge.svg)](https://snyk.io/test/github/atyantik/react-pwa)
-[![Greenkeeper badge](https://badges.greenkeeper.io/Atyantik/react-pwa.svg)](https://greenkeeper.io/)  
+[![Backers on Open Collective](https://opencollective.com/react-pwa/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/react-pwa/sponsors/badge.svg)](#sponsors) [![Dependencies Status](https://david-dm.org/Atyantik/react-pwa.svg)](https://david-dm.org/nathaniel83/react-pwa-v2)
+[![devDependencies Status](https://david-dm.org/nathaniel83/react-pwa-v2/dev-status.svg)](https://david-dm.org/nathaniel83/react-pwa-v2?type=dev)
+[![Build Status](https://travis-ci.org/nathaniel83/react-pwa.svg?branch=master)](https://travis-ci.org/nathaniel83/react-pwa-v2)
+[![Known Vulnerabilities](https://snyk.io/test/github/nathaniel83/react-pwa-v2/badge.svg)](https://snyk.io/test/github/nathaniel83/react-pwa-v2)
+[![Greenkeeper badge](https://badges.greenkeeper.io/nathaniel83/react-pwa.svg)](https://greenkeeper.io/)  
 
 [![Join the chat at https://gitter.im/react-pwa](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/react-pwa/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
@@ -15,7 +15,7 @@ A highly scalable, Progressive Web Application foundation,boilerplate, with the 
 ### Quick Start
 Clone the repository:
 ```bash
-git clone https://github.com/Atyantik/react-pwa.git && cd react-pwa 
+git clone https://github.com/nathaniel83/react-pwa-v2.git && cd react-pwa-v2 
 ```
 
 
@@ -31,7 +31,7 @@ npm run build
 
 ## PawJS
 Proudly supported by **PawJS**   
-*[https://github.com/Atyantik/pawjs](https://github.com/Atyantik/pawjs)*
+*[https://github.com/Atyantik/pawjs](https://github.com/nathaniel83/pawjs)*
 
 #### Features
 ##### PWA  - Progressive Web Applications
@@ -84,21 +84,6 @@ Visit us at [Atyantik Technologies Private Limited](https://www.atyantik.com)
 ### Backers
 Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/react-pwa#backer)]
 <a href="https://opencollective.com/react-pwa#backers" target="_blank"><img src="https://opencollective.com/react-pwa/backers.svg?width=890"></a>
-
-
-### Sponsors
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/react-pwa#sponsor)]
-
-<a href="https://opencollective.com/react-pwa/sponsor/0/website" target="_blank"><img src="https://opencollective.com/react-pwa/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/react-pwa/sponsor/1/website" target="_blank"><img src="https://opencollective.com/react-pwa/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/react-pwa/sponsor/2/website" target="_blank"><img src="https://opencollective.com/react-pwa/sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/react-pwa/sponsor/3/website" target="_blank"><img src="https://opencollective.com/react-pwa/sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/react-pwa/sponsor/4/website" target="_blank"><img src="https://opencollective.com/react-pwa/sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/react-pwa/sponsor/5/website" target="_blank"><img src="https://opencollective.com/react-pwa/sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/react-pwa/sponsor/6/website" target="_blank"><img src="https://opencollective.com/react-pwa/sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/react-pwa/sponsor/7/website" target="_blank"><img src="https://opencollective.com/react-pwa/sponsor/7/avatar.svg"></a>
-<a href="https://opencollective.com/react-pwa/sponsor/8/website" target="_blank"><img src="https://opencollective.com/react-pwa/sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/react-pwa/sponsor/9/website" target="_blank"><img src="https://opencollective.com/react-pwa/sponsor/9/avatar.svg"></a>
 
 ### Supporters
 ##### Atyantik Technologies Private Limited
